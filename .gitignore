@@ -7,3 +7,6 @@
 .idea/vcs.xml
 .idea/workspace.xml
 .idea/amazon-sagemaker-mlops-workshop.iml
+.ipynb_checkpoints/
+data/
+model/
