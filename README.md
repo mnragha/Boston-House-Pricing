@@ -77,7 +77,7 @@ Once you've chosen a region, you should create all of the resources for this wor
 
 ## Getting started
 
-Please start with [**Notebook.ipynb**](Notebook.ipynb).
+Please start with [**Notebook.ipynb**](notebook.ipynb).
 
 ## Security
 
